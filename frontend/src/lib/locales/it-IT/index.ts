@@ -462,6 +462,7 @@ export const itIT = {
     sessionUpdated: "Sessione aggiornata",
     sessionDeleted: "Sessione eliminata",
     stop: "Interrompi",
+    generating: "Generazione...",
   },
   searchPage: {
     askAndSearch: "Chiedi e cerca",

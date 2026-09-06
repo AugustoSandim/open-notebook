@@ -462,6 +462,7 @@ export const ptBR = {
     sessionUpdated: "Sessão atualizada",
     sessionDeleted: "Sessão excluída",
     stop: "Parar",
+    generating: "Gerando...",
   },
   searchPage: {
     askAndSearch: "Perguntar e Buscar",
